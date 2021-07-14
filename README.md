@@ -10,6 +10,7 @@ note taking app.
 * [User Story](#userstory)
 * [Installation](#installation)
 * [Preview](#preview)
+* [Deployed Link](#deployedlink)
 * [Questions](#questions)
 
 ## User Story
@@ -27,11 +28,14 @@ npm i
 node server.js
 ```
 * Open up your default browser and navigate to `http://localhost:3000` to run the application on your local machine.
-* Feel free to check out the live application hosted on Heroku here.
 
 ## Preview
 
-* 
+* ![Note Taker](assets/images/notetakerdemo.gif)
+
+## Deployed Link
+
+* Feel free to check out the live application hosted on Heroku [here]().
 
 ## Questions
 
