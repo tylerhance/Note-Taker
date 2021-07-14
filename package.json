@@ -1,12 +1,13 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express.js note taker application.",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tyler Hance",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
